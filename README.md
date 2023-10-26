@@ -14,10 +14,10 @@ Trained E-commerce dataset to develop Linear Regression Project & predict custom
 
 ## **3. Description of Data** 
 
-<img width="247" alt="image" src="https://github.com/davidpham1996/E-Commerce-Linear-Regression/assets/148404076/e6d4dc52-eb06-40f9-8751-4c6d262ab281">
+- <img width="247" alt="image" src="https://github.com/davidpham1996/E-Commerce-Linear-Regression/assets/148404076/e6d4dc52-eb06-40f9-8751-4c6d262ab281">
 
 
-<img width="362" alt="image" src="https://github.com/davidpham1996/E-Commerce-Linear-Regression/assets/148404076/b6954d80-2a38-41be-8da2-ed9171566d7c">
+- <img width="362" alt="image" src="https://github.com/davidpham1996/E-Commerce-Linear-Regression/assets/148404076/b6954d80-2a38-41be-8da2-ed9171566d7c">
 
 ## **4. Exploratory Data Analysis (EDA)** 
 
