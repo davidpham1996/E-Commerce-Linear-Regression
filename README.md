@@ -1,3 +1,5 @@
 # E-Commerce-Linear-Regression
 
-Currently working on a Linear Regression Project using Python on E-commerce dataset. 
+ Trained E-commerce dataset to develop Linear Regression Project & predict customer sales based on set variables. 
+ 
+ Tools used: Python, Pandas, Seaborn. 
