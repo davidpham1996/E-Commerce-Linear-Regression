@@ -24,6 +24,7 @@ Trained E-commerce dataset to develop Linear Regression Project & predict custom
 ## **4. Exploratory Data Analysis (EDA)** 
 
 **Code:** 
+
 <img width="422" alt="image" src="https://github.com/davidpham1996/E-Commerce-Linear-Regression/assets/148404076/eb80c964-0647-4c74-a037-7e0165a20c96">
 
 **Result:** 
