@@ -14,10 +14,12 @@ Trained E-commerce dataset to develop Linear Regression Project & predict custom
 
 ## **3. Description of Data** 
 
-- <img width="247" alt="image" src="https://github.com/davidpham1996/E-Commerce-Linear-Regression/assets/148404076/e6d4dc52-eb06-40f9-8751-4c6d262ab281">
+- Getting info on the data. 
+<img width="247" alt="image" src="https://github.com/davidpham1996/E-Commerce-Linear-Regression/assets/148404076/e6d4dc52-eb06-40f9-8751-4c6d262ab281">
 
 
-- <img width="362" alt="image" src="https://github.com/davidpham1996/E-Commerce-Linear-Regression/assets/148404076/b6954d80-2a38-41be-8da2-ed9171566d7c">
+- Statistical Analysis on the data. 
+<img width="362" alt="image" src="https://github.com/davidpham1996/E-Commerce-Linear-Regression/assets/148404076/b6954d80-2a38-41be-8da2-ed9171566d7c">
 
 ## **4. Exploratory Data Analysis (EDA)** 
 
@@ -25,6 +27,7 @@ Trained E-commerce dataset to develop Linear Regression Project & predict custom
 <img width="422" alt="image" src="https://github.com/davidpham1996/E-Commerce-Linear-Regression/assets/148404076/eb80c964-0647-4c74-a037-7e0165a20c96">
 
 **Result:** 
+
 ![image](https://github.com/davidpham1996/E-Commerce-Linear-Regression/assets/148404076/50412de1-c1de-4c4b-9c0b-92063162cdb6)
 
 **Code:** 
